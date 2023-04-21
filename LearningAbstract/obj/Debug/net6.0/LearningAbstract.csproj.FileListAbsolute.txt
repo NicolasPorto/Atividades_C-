@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\bin\Debug\net6.0\LearningAbstract.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\bin\Debug\net6.0\LearningAbstract.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\bin\Debug\net6.0\LearningAbstract.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\bin\Debug\net6.0\LearningAbstract.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\bin\Debug\net6.0\LearningAbstract.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\refint\LearningAbstract.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\LearningAbstract.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningAbstract\obj\Debug\net6.0\ref\LearningAbstract.dll

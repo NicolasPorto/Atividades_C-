@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\bin\Debug\net6.0\Secao-9.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\bin\Debug\net6.0\Secao-9.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\bin\Debug\net6.0\Secao-9.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\bin\Debug\net6.0\Secao-9.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\bin\Debug\net6.0\Secao-9.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\refint\Secao-9.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\Secao-9.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\Secao-9\obj\Debug\net6.0\ref\Secao-9.dll

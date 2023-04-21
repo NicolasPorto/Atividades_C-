@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\bin\Debug\net6.0\ExercicioFixacao4.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\bin\Debug\net6.0\ExercicioFixacao4.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\bin\Debug\net6.0\ExercicioFixacao4.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\bin\Debug\net6.0\ExercicioFixacao4.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\bin\Debug\net6.0\ExercicioFixacao4.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\refint\ExercicioFixacao4.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ExercicioFixacao4.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\ExercicioFixacao4\obj\Debug\net6.0\ref\ExercicioFixacao4.dll

@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Secao-3-4-5.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Secao-3-4-5.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Secao-3-4-5.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Secao-3-4-5.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Secao-3-4-5.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\Secao-3-4-5.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Secao-3-4-5.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\Secao-3-4-5.dll

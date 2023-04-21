@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Course.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Course.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Course.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Course.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\Course.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\Course.dll

@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\bin\Debug\net6.0\LearningHeranca.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\bin\Debug\net6.0\LearningHeranca.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\bin\Debug\net6.0\LearningHeranca.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\bin\Debug\net6.0\LearningHeranca.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\bin\Debug\net6.0\LearningHeranca.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\refint\LearningHeranca.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\LearningHeranca.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningHeranca\obj\Debug\net6.0\ref\LearningHeranca.dll

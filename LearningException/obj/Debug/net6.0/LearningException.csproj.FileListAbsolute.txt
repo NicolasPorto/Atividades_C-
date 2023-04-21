@@ -1,0 +1,15 @@
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\bin\Debug\net6.0\LearningException.exe
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\bin\Debug\net6.0\LearningException.deps.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\bin\Debug\net6.0\LearningException.runtimeconfig.json
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\bin\Debug\net6.0\LearningException.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\bin\Debug\net6.0\LearningException.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.csproj.AssemblyReference.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.AssemblyInfoInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.AssemblyInfo.cs
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.csproj.CoreCompileInputs.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\refint\LearningException.dll
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.pdb
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\LearningException.genruntimeconfig.cache
+C:\Users\Note-63\Desktop\Udemy\Projetos\PrimeiroProjeto\LearningException\obj\Debug\net6.0\ref\LearningException.dll
